@@ -10,7 +10,7 @@ A website that will display photos of my dogs.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+My software will have a website that opens a homepage. This homepage will have options for buttons to click that will lead to a bunch of photos of my dogs. So, if the user clicks on the button that says Nugget, it will open a page with photos of my dog Nugget. This will be executed by using HTTP, HTML, CSS, and JavaScript (as long as I can figure out how all of these different parts will work together). I will use python to code how the clicking of a certain button will lead to the selection of photos. If i get this far, I might also implement another if statement that will allow the user to choose what year of photos they would liek to be displayed. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -36,4 +36,4 @@ Same thing as the better outcome but with improved graphics and overall the webs
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+I will learn how to build a website in python. This will involve creating a homepage, and learning hwo to use HTTP, HTML, CSS, and JavaScript. Depending on how far I get within my good, better, and best outcomes, I will only need to learn some of java script.
