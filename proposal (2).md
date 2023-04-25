@@ -2,11 +2,11 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Dog photo website
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A website that will display photos of my dogs. 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -24,15 +24,15 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+A website that is static with just photos of my dogs.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+A website that when you click on the name of one of my dogs, it will show pictures of that dog.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+Same thing as the better outcome but with improved graphics and overall the website will look better.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
